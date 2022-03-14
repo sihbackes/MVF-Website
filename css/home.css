@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+background-color: #FFFFFF;
+display: flex;
+align-items: center;
+}
+
+.logo{
+  margin-left: 12rem;
+}
+
+.headerMenu {
+  margin-left: 5rem;
+}
+
+.headerMenu ul li {
+  list-style-type: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding-left: 6rem;
+}
+
+.headerMenu ul {
+  display: flex;
+}
+
+
+.backgroundPhoto {
+  background-color: rgb(0, 0, 0);
+  background-image: url(../img/backgroundphoto.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 170px 0px 270px 0px;
+  text-align: center;
+}
+
+.primeiraFraseBanner {
+ color: #FFFFFF;
+ font-family: 'Montserrat', sans-serif;
+ font-weight: bolder;
+ font-size: 65px;
+ margin-bottom: 20px;
+}
+
+.segundaFraseBanner {
+ color: #FFFFFF;
+ font-family: 'Montserrat', sans-serif;
+ font-weight:normal;
+ font-size: 25px;
+ margin-bottom: 20px;
+
+}
+
+
+.buttonOrcamento {
+padding: 12px;
+background-color: #23A6F0;
+color: white;
+font-size: 11px;
+letter-spacing: 0.8px;
+font-weight: bold;
+border: none;
+border-radius: 18px;
+margin: 15px ;
+}
+
+.buttonSobre {
+
+  padding: 10px;
+  background-color: transparent;
+  border-color: #FFFFFF ;
+  border: solid 2px;
+  color: white;
+  font-size: 11px;
+  letter-spacing: 0.8px;
+  font-weight: bold;
+  border-radius: 18px;
+  
+}
