@@ -1,0 +1,71 @@
+@media (max-width: 600px){
+
+   .logo{
+    margin-left: 0rem;
+   }
+   
+   .headerMenu ul li {
+    font-size: 12px;
+    margin-right: 0rem;
+   }
+   
+   .headerMenu ul {
+    display: block;
+
+   }
+
+   .primeiraFraseBanner {
+    font-size: 45px;
+   }
+
+   .segundaFraseBanner {
+     font-size: 15px;
+   }
+
+   .buttonOrcamento {
+    margin-left: -10px;
+   }
+
+   .buttonSobre {
+     margin-left: -10px;
+   }
+
+   .iconesEmDestaque ul {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 60px;
+    margin-bottom: 2%;
+  }
+
+  .iconesEmDestaque ul li {
+    margin-bottom: 2%;
+  }
+
+  .equipe ul li{
+   height: 280px;
+ 
+  }
+
+  .entreEmContato h1 {
+   font-size: 20px;
+  }
+
+  .form {
+    margin-left: -206px;
+  }
+
+  .footer h1 {
+
+    font-size: 18px;
+
+  }
+  
+
+    font-size: 10px;
+
+  }
+
+}
+
+

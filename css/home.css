@@ -212,6 +212,7 @@ body {
   box-sizing: border-box;
   border: 2px solid #FFFFFF;
   background-color: #FFFFFF;
+  margin-bottom: 80px;
 
 }
 
@@ -258,7 +259,7 @@ body {
   width: 400px;
   height: 407px;
   background-color: #ffffff;
-  padding: 37px;
+  padding: 15px;
 }
 
 
@@ -275,10 +276,22 @@ input {
   border: solid 2px;
   color: #E6E6E6;
   background-color: #F9F9F9;
-  margin-bottom: 20px;
-  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-top: 5px;
   width: 260px;
   height: 40px;
+}
+
+.mensagem {
+  padding: 10px 40px;
+  border-radius: 5px;
+  border: solid 2px ;
+  color: #E6E6E6;
+  background-color: #F9F9F9;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  width: 260px;
+  height: 80px;
 }
 
 .submit {
@@ -329,4 +342,6 @@ input {
   font-weight: normal;
   font-size: 8px;
   color: #737373;
+  padding: 3px;
 }
+
