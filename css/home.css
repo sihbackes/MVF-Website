@@ -16,7 +16,7 @@ body {
 
 .logo{
   margin-left: 12rem;
-  padding: 8px;
+  padding: .5rem;
 }
 
 .headerMenu {
@@ -27,7 +27,7 @@ body {
   list-style-type: none;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  font-size: 15px;
+  font-size: .9rem;
   padding-left: 6rem;
 }
 
@@ -42,48 +42,48 @@ body {
   background-size: cover;
   background-position: center center;
   text-align: center;
-  height: 750px;
+  height: 42rem;
 }
 
 .primeiraFraseBanner {
  color: #FFFFFF;
  font-family: 'Montserrat', sans-serif;
  font-weight: bolder;
- font-size: 65px;
- padding: 60px;
+ font-size: 4rem;
+ padding: 3.7rem;
 }
 
 .segundaFraseBanner {
  color: #FFFFFF;
  font-family: 'Montserrat', sans-serif;
  font-weight:normal;
- font-size: 25px;
- margin-bottom: 60px;
+ font-size: 1.5rem;
+ margin-bottom: 3.7rem;
 }
 
 .buttonOrcamento {
- padding: 12px;
+ padding: .7rem;
  background-color: #23A6F0;
  color: white;
- font-size: 11px;
+ font-size: .7rem;
  letter-spacing: 0.8px;
  font-weight: bold;
  border: none;
- border-radius: 18px;
- margin: 15px ;
+ border-radius: 1rem;
+ margin: .9rem;
 }
 
 .buttonSobre {
-  padding: 10px;
+  padding: .6rem;
   background-color: transparent;
   border-color: #FFFFFF ;
   border: solid 2px;
   color: white;
-  font-size: 11px;
+  font-size: .7rem;
   letter-spacing: 0.8px;
   font-weight: bold;
-  border-radius: 18px; 
-  margin-bottom: 20px;
+  border-radius: 1.1rem; 
+  margin-bottom: 1.2rem;
 }
 
 
